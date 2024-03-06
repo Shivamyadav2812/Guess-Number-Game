@@ -1,0 +1,32 @@
+*{
+    font-family: calibri;
+}
+
+h1{
+    color: red;
+}
+
+.end{
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 5px 15px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#message {
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+#attempts {
+    margin-top: 10px;
+}
